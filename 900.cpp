@@ -3,7 +3,7 @@
 using namespace std;
 
 // void solve() {
-// 	int n,x,k;
+// 	int n,x,k;``
 // 	cin >> n;
 // 	cin >> k;
 
